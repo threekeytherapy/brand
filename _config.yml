@@ -2,13 +2,13 @@ title: Three Key Therapy Brand
 description: Assets contributing to the brand
 theme: just-the-docs
 
-url: https://threekeytherapy.github.io/branding/
+url: https://threekeytherapy.github.io/brand/
 
 
 # Aux links for the upper right navigation
 aux_links:
   "Three Key Therapy Brand":
-    - "https://github.com/threekeytherapy/branding"
+    - "https://github.com/threekeytherapy/brand"
 
 # Enable or disable heading anchors
 heading_anchors: true
@@ -25,5 +25,5 @@ footer_content: "Copyright &copy; Three Key Therapy"
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "Edit this page on GitHub"
-gh_edit_repository: "https://github.com/threekeytherapy/branding" # the github URL for your repo
+gh_edit_repository: "https://github.com/threekeytherapy/brand" # the github URL for your repo
 gh_edit_branch: "main" # the branch that your docs is served from
