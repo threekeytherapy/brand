@@ -29,3 +29,5 @@ gh_edit_repository: "https://github.com/threekeytherapy/brand" # the github URL 
 gh_edit_branch: "main" # the branch that your docs is served from
 
 color_scheme: threekeytherapy
+favicon_ico: "/assets/images/favicon-mahogony.png"
+logo: "/assets/images/SVG_RGB_WebsiteUse_ThreeKeyTherapy_Logo_Horizontal_Mahogony.svg"
