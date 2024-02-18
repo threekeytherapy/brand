@@ -1,0 +1,86 @@
+$color-scheme: threekeytherapy;
+
+/*
+Variables as defined in _config of threekeytherapy.com
+
+Reminder of colours:
+Soft creme #FAF6DB
+Clay yellow # FFCD7E
+Burnt tangerine #F7941D
+Mahogony red #7A1502
+-
+Earth Orange #D55A1F
+Olive Green #747500
+
+font options
+
+theme light #ABB7B7
+theme mid #6c7a89
+darker #5d6976
+darkest #4e5964
+*/
+
+$background_color: #FAF6DB;
+$background_alt_color: #FFCD7E;
+$text_dark_color: #7A1502;
+$text_medium_color: #5d6976;
+$text_light_color: #6C7A89;
+$accent_color: #D55A1F;
+$border_color: #7A1502;
+$hero_background_color: #7A1502;
+$hero_text_color: #FAF6DB;
+$error_color: #7A1502;
+
+$body-background-color: $background_color;
+$body-heading-color: $text_dark_color;
+$body-text-color: $text_medium_color;
+$link-color: $text_dark_color;
+$nav-child-link-color: $accent_color;
+$sidebar-color: $background_color;
+$base-button-color: $background_color;
+$btn-primary-color: $text_dark_color;
+$code-background-color: $grey-lt-100;
+$feedback-color: darken($sidebar-color, 3%);
+$table-background-color: $text_light_color;
+$search-background-color: $background_color;
+$search-result-preview-color: $text_medium_color;
+$border-color: $background_alt_color;
+
+/*
+Just the docs light theme defaults
+
+$color-scheme: light !default;
+$body-background-color: $white !default;
+$body-heading-color: $grey-dk-300 !default;
+$body-text-color: $grey-dk-100 !default;
+$link-color: $purple-000 !default;
+$nav-child-link-color: $grey-dk-100 !default;
+$sidebar-color: $grey-lt-000 !default;
+$base-button-color: #f7f7f7 !default;
+$btn-primary-color: $purple-100 !default;
+$code-background-color: $grey-lt-000 !default;
+$feedback-color: darken($sidebar-color, 3%) !default;
+$table-background-color: $white !default;
+$search-background-color: $white !default;
+$search-result-preview-color: $grey-dk-000 !default;
+
+Just the docs dark theme defaults
+
+$color-scheme: dark;
+$body-background-color: $grey-dk-300;
+$body-heading-color: $grey-lt-000;
+$body-text-color: $grey-lt-300;
+$link-color: $blue-000;
+$nav-child-link-color: $grey-dk-000;
+$sidebar-color: $grey-dk-300;
+$base-button-color: $grey-dk-250;
+$btn-primary-color: $blue-200;
+$code-background-color: #31343f; // OneDarkJekyll default for syntax-one-dark-vivid
+$code-linenumber-color: #dee2f7; // OneDarkJekyll .nf for syntax-one-dark-vivid
+$feedback-color: darken($sidebar-color, 3%);
+$table-background-color: $grey-dk-250;
+$search-background-color: $grey-dk-250;
+$search-result-preview-color: $grey-dk-000;
+$border-color: $grey-dk-200;
+
+*/
