@@ -7,94 +7,66 @@ nav_order: 2
 
 # Sitemap
 
-Header
+## Header
 
-	Name/Logo -> homepage
+Contains:
+* Name/Logo -> homepage
+* 4 menu items -> rest
 
-	4 menu items -> rest
+## Homepage
 
-Homepage
+Contains:
+* Big image, mission statement
+* Super simple explanation of what body therapy is
 
-	Big image, mission statement (stock image)
+## Menu
 
-	Super simple explanation of what body therapy is
+Includes:
+* What is body therapy?
+* Treatments 
+* Training 
+* Workshops 
+* Resources 
+* About 
+* Contact (or merge with above)
 
-Menu
+## Treatments 
 
-Treatments (stock image)
+Contains:
+* Description
+* Testimonials
+* Pricing + Practical
+* FAQ
+* Links
 
-Training (not now)
+## Workshops
 
-Workshops (not now)
+Contains:
+* Pages with per item: thumbnail, title, abstract, link
 
-Resources (not now)
+## Resources 
 
-About 
+Contains:
+* Page with per item: thumbnail, title, abstract, link
 
-What is body therapy? Short mission statement + how it works
+## About
 
-Contact (or merge with above)
+Contains:
+* Me as person
+* Manuvison
+* Why I work
 
-Treatments 
+## Contact
 
-	Description
+Contains:
+* Numbers
+* Form
+* Page with text and form
 
-	Testimonials
+## Footer 
 
-	Pricing + Practical
-
-FAQ
-
-	Links
-
-		Complex page with pictures and features 
-
-Workshops
-
-	1
-
-	2
-
-	3
-
-		Page with per item: thumbnail, title, abstract, link
-
-			Page per item with picture and text
-
-Resources 
-
-	1
-
-	2
-
-	3
-
-		Page with per item: thumbnail, title, abstract, link
-
-			Page per item with picture and text
-
-About
-
-	Me as person
-
-	Manuvison
-
-	Why I work
-
-		Page with pictures and text 
-
-Contact
-
-	Numbers
-
-	Form
-
-		Page with text and form
-
-Footer 
-
-	Number
-
-	KVK 
-
-	Newsletter signup
+Contains:
+* Number
+* KVK 
+* Newsletter signup
+  
