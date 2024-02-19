@@ -7,11 +7,12 @@ has_children: true
 
 # Brand research
 
-Contains the preparatory research to define my brand
+Preparation done before working with a designer
 
-* initial work around the general direction
-* long list of possible names
-* user research around the typical clients 
-* some notes on corporate-centric path
+Includes:
+* initial considerations about the desired brand
+* a long list of possible names
+* user research to document the typical clients and requests
+* some notes on an alternative corporate-centric path
 
 As easter egg: [first ever brand concept](first-ever-concept.pdf) I made for myself
