@@ -15,16 +15,13 @@ Body-based therapy to help you
 
 Untangle from what you are not,
 
-& discover what you are.**	**
+& discover what you are.
 
-**Threekeytherapy.com **
+**Threekeytherapy.com**
 
 unlock yourself with the missing key
 
-
     by working with body, emotions and mind
-
-/
 
 Work with your body, mind and emotions
 
@@ -32,20 +29,15 @@ To let go of what you are not
 
 And discover what you are
 
-
     Threekeybodytherapy.com
 
 Threekey(s)bodytherapy.com
 
-
     Triplekeytherapy.com
-
 
     Triplekeybodytherapy.com
 
-
     Threepointtherapy
-
 
     Threepointbodytherapy
 
@@ -67,12 +59,9 @@ Threekey(s)bodytherapy.com
 
 **Untangled - body therapy**
 
-
     Work with your body to 
 
-
     Untangle from what you are not
-
 
     and/to discover what you are
 
@@ -80,10 +69,7 @@ Threekey(s)bodytherapy.com
 
 **Cracked mask - body therapy**
 
-
 ## Suggested by chatGPT
-
-
 
 1. Embodied Realization Therapy
 2. Somatic Unmasking
@@ -103,8 +89,7 @@ Threekey(s)bodytherapy.com
 
 Turning invisible barriers into mirrors for clarity
 
-
-## Name dump
+## Long list of names
 
 **Claus.house**
 
