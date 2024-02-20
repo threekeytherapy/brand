@@ -7,4 +7,5 @@ has_children: true
 
 # Brand development
 
-Contains the work around developing the Three Key Therapy brand, suppored by a designer
+Contains the work around developing the Three Key Therapy brand, suppored by a designer.
+

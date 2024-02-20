@@ -5,7 +5,7 @@ parent: Brand development
 nav_order: 1
 ---
 
-# Phase 1 - mission/purpose
+# Phase 1 - My mission/purpose
 
 I am driven by:
 
