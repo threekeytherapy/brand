@@ -7,38 +7,38 @@ nav_order: 1
 
 ## Initial considerations
 
-It is NOT:
+## It is NOT:
 
 * A massage
 * relaxing
 
-It is:
+## It is:
 
 * Serious
 * Therapeutic 
 * Can be difficult and painful and confronting
 
-Who is the audience:
+## Who is the audience:
 
 * People for who talk therapy isn’t working
 * Want to explore deeper
 * Have long term physical issues
 * Burnout and stress
 
-What does the audience want:
+## What does the audience want:
 
 * They are stuck, frustrated, depressed, anxious, etc -> feel like they are carrying a unique pain
 * They want to explore
 * Have this long standing body thing they want to get rid of
 * A friend told them to try this
 
-Markets:
+## Markets:
 
 * Main: referrals from existing clients/people I meet
 * Secondary: People who google therapy, body therapy, body work, somatic
 * Secondary: People who find fliers 
 
-People should feel:
+## People should feel:
 
 * Confidence 
 * Trust
@@ -46,13 +46,13 @@ People should feel:
 * Non-judgemental, welcoming
 * Serious 
 
-What I am about:
+## What I am about:
 
 * Self-discovery 
 * Self awareness and realisation
 * Taking responsibility and confronting shadows 
 
-Requirements:
+## Requirements:
 
 * Easy to turn into a visual image? Would be good to have for fliers
 * .com domain? Not so important
@@ -60,20 +60,20 @@ Requirements:
 * Contains something easy to remember and unique for google search? Good to have 
 * Something people can add on to explain/catch phrase to make it more memorable? Good to have
 
-Existing search terms:
+## Existing search terms:
 
 * Body work, embodiment
 * somatic
 * Body holds the score
 * Ilan Lev, Avi Grunberg, 
 
-Possible forms:
+## Possible forms:
 
 * One word + body therapy
 * Two words + therapy 
 * Name + body therapy as subtitle
 
-Words I like:
+## Words I like:
 
 * Mirror
 * Mask
